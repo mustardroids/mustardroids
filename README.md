@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zayne</h1>
+c<h1 align="center">Hi 👋, I'm Zayne</h1>
 <h3 align="center">🔥 Non-Star Developer | Discord Bot Mastermind | Fullstack Wizard</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/PHQ3wnI6Rr0AAAAC/soggy-cat-shark-ssoggycat.gif" alt="soggy shark cat" width="300"/>
+  <img src="https://media1.tenor.com/m/VAlv7GB3cY8AAAAd/soggy-cat-shark.gif" alt="soggy shark cat" width="300"/>
 </p>
 
 ---
