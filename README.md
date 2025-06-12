@@ -5,10 +5,10 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building next-gen Discord bots & ultra-fast websites  
-- 🧠 I think forward. I automate, optimize, and break limits  
-- 🚀 Obsessed with speed, minimalism, and smart code  
-- 💬 Ask me about anything code, especially JavaScript, Lua, Node.js, or Discord API  
+- 🔭 Building next-gen Discord bots & ultra-fast websites  
+- 🧠 Forward-thinker. Automator. Limit breaker  
+- 🚀 Obsessed with smart code & speed  
+- 💬 Ask me anything code, especially JS, Lua, Node.js, Discord API  
 
 ---
 
@@ -18,23 +18,23 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📈 GitHub Overview (Static, No API)
 
-<p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=Zayne&template=classic&config.timezone=auto&base.header=false&base.community=false&base.repositories=0&config.animated=true" />
-</p>
-
----
-
-### 🟢 Discord Status (Live)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/756790629014569000)](https://discord.com/users/756790629014569000)
+![Profile Views](https://komarev.com/ghpvc/?username=Zayne&style=flat-square&color=blueviolet)
+![Repos](https://badgen.net/github/repos/Zayne)
+![Followers](https://badgen.net/github/followers/Zayne)
+![Stars](https://badgen.net/github/stars/Zayne)
 
 ---
 
-### 🔗 Connect With Me
+### 🟢 Discord
 
-[![Discord](https://img.shields.io/badge/Discord-Zahdam%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/756790629014569000)  
+[![Discord](https://img.shields.io/badge/Discord-Zahdam%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/756790629014569000)
+
+---
+
+### 🌐 Website
+
 [![Website](https://img.shields.io/badge/Portfolio-zahdam.com-000?style=for-the-badge&logo=web&logoColor=white)](https://zahdam.com)
 
 ---
