@@ -20,7 +20,7 @@
 
 ### 🔗 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-Zahdam%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/756790629014569000)  
+[![Discord](https://img.shields.io/badge/Discord-idklol%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/756790629014569000)  
 [![Website](https://img.shields.io/badge/Portfolio-zahdam.com-000?style=for-the-badge&logo=web&logoColor=white)](https://zahdam.com)
 
 ---
