@@ -1,4 +1,4 @@
-c<h1 align="center">Hi 👋, I'm Zayne</h1>
+<h1 align="center">Hi 👋, I'm Zayne</h1>
 <h3 align="center">🔥 Non-Star Developer | Discord Bot Mastermind | Fullstack Wizard</h3>
 
 <p align="center">
