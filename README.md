@@ -18,23 +18,9 @@
 
 ---
 
-### 📈 GitHub Overview (Static, No API)
+### 🔗 Connect With Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zayne&style=flat-square&color=blueviolet)
-![Repos](https://badgen.net/github/repos/Zayne)
-![Followers](https://badgen.net/github/followers/Zayne)
-![Stars](https://badgen.net/github/stars/Zayne)
-
----
-
-### 🟢 Discord
-
-[![Discord](https://img.shields.io/badge/Discord-Zahdam%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/756790629014569000)
-
----
-
-### 🌐 Website
-
+[![Discord](https://img.shields.io/badge/Discord-Zahdam%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/756790629014569000)  
 [![Website](https://img.shields.io/badge/Portfolio-zahdam.com-000?style=for-the-badge&logo=web&logoColor=white)](https://zahdam.com)
 
 ---
