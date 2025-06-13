@@ -29,4 +29,4 @@
 
 ---
 
-> _“Code fast. Think smart. Break the rules of boring code.”_
+> _“why am i switching to zen browser”_
